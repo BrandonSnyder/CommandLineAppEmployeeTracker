@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\GT-VIRT-FSF-FT-03-2022-U-LOL"
+		},
+		{
+			"path": "..\\..\\..\\..\\Portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootcamp"
+	}
+}
